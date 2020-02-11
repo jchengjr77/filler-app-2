@@ -1,0 +1,19 @@
+{
+  "name": "filler-app-2",
+  "version": "1.0.0",
+  "description": "Second try at the filler word counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchengjr77/filler-app-2.git"
+  },
+  "author": "Jonathan Cheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchengjr77/filler-app-2/issues"
+  },
+  "homepage": "https://github.com/jchengjr77/filler-app-2#readme"
+}
